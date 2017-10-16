@@ -11,4 +11,9 @@ This MVP is mobile-only for now.
 - Hapi
 - Handlebars
 - MongoDB
+- Amazon S3
 - Sass
+
+### User Flows
+- Register and create a profile
+- Log in and add a new product

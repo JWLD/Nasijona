@@ -6,3 +6,9 @@ Final project MVP from the Founders and Coders Nazareth bootcamp. View it [here]
 
 ### Design
 This MVP is mobile-only for now.
+
+### Tech Stack
+- Hapi
+- Handlebars
+- MongoDB
+- Sass

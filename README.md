@@ -8,10 +8,10 @@ Final project MVP from the Founders and Coders Nazareth bootcamp. View it [here]
 This MVP is mobile-only for now.
 
 ### Tech Stack
-- Hapi
-- Handlebars
-- MongoDB
 - Amazon S3
+- Handlebars
+- Hapi
+- MongoDB
 - Sass
 
 ### User Flows
